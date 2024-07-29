@@ -1,0 +1,171 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  overflow-x: hidden;
+}
+
+.nav-css {
+  display: flex;
+  align-items: center;
+}
+
+.home {
+  background: linear-gradient(to bottom, #BEDBE5, #EEF5F7);
+}
+
+.home-btn .btn-1 {
+  border: 3px solid #83D1DC;
+  color: #83D1DC;
+  padding: 8px 30px;
+}
+
+.home-btn .btn-1:hover {
+  border: 3px solid #000;
+  color: #000;
+}
+
+.home-btn .btn-2 {
+  background-color: #83D1DC;
+  padding: 10px 20px;
+}
+
+.btn-2:hover {
+  background: linear-gradient(to right, #83D1DC, #72adff);
+}
+
+.box-img {
+  border: 5px solid #000;
+  border-radius: 10px;
+}
+
+.box-img:hover {
+  box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.5);
+  cursor: pointer;
+}
+
+.about2 {
+  background-image: linear-gradient(to right, #CDE9EE, #AACCE4);
+}
+
+.about2-border {
+  border-right: 1px solid #000;
+}
+
+.navigation-img {
+  border: 5px solid #000;
+  border-radius: 10px;
+}
+
+.navigation-img:hover {
+  box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.5);
+  cursor: pointer;
+}
+
+.custom-center {
+  justify-content: center;
+}
+
+.nav-para {
+  font-size: 15px;
+}
+
+.navigation-box {
+  text-align: center;
+}
+
+.promo {
+  background-image: linear-gradient(to left, #CDE9EE, #AACCE4);
+}
+
+.review {
+  background-image: linear-gradient(to right, #CDE9EE, #AACCE4);
+}
+
+.feature-color {
+  background-color: #F5F8F9;
+}
+
+.feature {
+  background-color: #F5F8F9;
+}
+
+.feature-img-border {
+  border: 5px solid #000;
+  border-radius: 10px;
+}
+
+.feature-img-border:hover {
+  box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.5);
+  cursor: pointer;
+}
+
+.feature-box-1 {
+  height: 310px;
+  margin: 10px;
+  background-color: #fff;
+  border-radius: 10px;
+}
+
+.feature-box-1:hover {
+  box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.1);
+}
+
+.layout-box {
+  margin: 0px 20px;
+}
+
+.Social-Integrations {
+  background-color: #EDF5F8;
+}
+
+.colors {
+  background-color: #F5F8F9;
+}
+
+.color-box {
+  text-align: center;
+  background-color: #fff;
+  border-radius: 15px;
+}
+
+.colors-content {
+  text-align: center;
+}
+
+.online-store {
+  background-image: linear-gradient(to right, #CDE9EE, #AACCE4);
+}
+
+.feature-box {
+  width: 410px;
+  height: 290px;
+}
+
+.footer {
+  background-color: #292929;
+}
+
+.doc {
+  color: #83D1DC;
+}
+
+.doc:hover {
+  color: #fff;
+}
+
+.footer-content p {
+  color: #878787;
+}
+
+.btn-3 {
+  background-color: #83D1DC;
+  padding: 10px 20px;
+}
+
+.btn-3:hover {
+  background: linear-gradient(to right, #83D1DC, #72adff);
+}/*# sourceMappingURL=style.css.map */
